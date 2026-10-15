@@ -1,0 +1,6 @@
+pyspark==4.0.4
+matplotlib
+numpy
+# Google Colab supplies its own runtime, Java, and Google Drive integration.
+# Plotting-only repair attempted Kaleido 1.5.0 and Plotly 7.1.0.
+# See executed E95 and figures/spark_plot_repair.json inside native archive.
