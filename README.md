@@ -41,5 +41,3 @@ Sakar, C., & Kastro, Y. (2018). *Online shoppers purchasing intention dataset* [
 Unicode CLDR English Gregorian calendar JSON, pinned commit `91c267402229a59e3ef2774544f001bf959e8809`: https://github.com/unicode-org/cldr-json/blob/91c267402229a59e3ef2774544f001bf959e8809/cldr-json/cldr-dates-full/main/en/ca-gregorian.json . The original Unicode V3 licence is included. This reference supplies month aliases and calendar order; it adds no shopping observations or predictive measurements.
 
 The same source was explored in earlier iterations. There are no user/session IDs, timestamps or years, and availability of all whole-session features before intervention is unverified. Results support retrospective ranking in this extract. They do not establish future-user generalisation, calibrated probabilities, causal sales uplift or commercial profitability.
-
-OpenAI Codex assisted code preparation, troubleshooting, drafting and evidence checks. The results come from the recorded Colab executions; the student remains responsible for the submitted work.
